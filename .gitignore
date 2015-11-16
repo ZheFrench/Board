@@ -1,1 +1,4 @@
-.DS_Store
+/rsconnect/*
+.RData
+.Rhistory
+*/.DS_Store
